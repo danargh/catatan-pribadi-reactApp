@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Website catatan pribadi
+website ini dibangun menggunakan react class component
+
+## Screenshot
+![Screenshot_20221227_080412](https://user-images.githubusercontent.com/78610870/209595480-553b958b-32fd-4dd6-9fbc-b910954c896f.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
